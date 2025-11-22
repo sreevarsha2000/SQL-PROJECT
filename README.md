@@ -1,2 +1,1 @@
-# DataCleaning
-SQL - Project on Data Cleaning
+SQL - Project on Data Cleaning and EDA
